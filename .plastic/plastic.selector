@@ -1,0 +1,4 @@
+repository "FourTale@mjoruslan@cloud"
+  path "/"
+    smartbranch "/main" changeset "8"                   
+     
